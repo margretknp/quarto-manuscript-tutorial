@@ -216,6 +216,9 @@ Nacional (IGN). …</p>
 </sec>
 <sec id="sec-data-methods">
   <title>2 Data &amp; Methods</title>
+  <p>Datenverarbeitung mit
+  (<xref alt="Wickham et al. 2019" rid="ref-tidyverse" ref-type="bibr">Wickham
+  et al. 2019</xref>)</p>
 </sec>
 <sec id="conclusion">
   <title>3 Conclusion</title>
@@ -241,6 +244,42 @@ Nacional (IGN). …</p>
       <volume>8</volume>
       <pub-id pub-id-type="doi">10.1186/s13617-019-0085-5</pub-id>
       <fpage></fpage>
+      <lpage></lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-tidyverse">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Wickham</surname><given-names>Hadley</given-names></name>
+        <name><surname>Averick</surname><given-names>Mara</given-names></name>
+        <name><surname>Bryan</surname><given-names>Jennifer</given-names></name>
+        <name><surname>Chang</surname><given-names>Winston</given-names></name>
+        <name><surname>McGowan</surname><given-names>Lucy D’Agostino</given-names></name>
+        <name><surname>François</surname><given-names>Romain</given-names></name>
+        <name><surname>Grolemund</surname><given-names>Garrett</given-names></name>
+        <name><surname>Hayes</surname><given-names>Alex</given-names></name>
+        <name><surname>Henry</surname><given-names>Lionel</given-names></name>
+        <name><surname>Hester</surname><given-names>Jim</given-names></name>
+        <name><surname>Kuhn</surname><given-names>Max</given-names></name>
+        <name><surname>Pedersen</surname><given-names>Thomas Lin</given-names></name>
+        <name><surname>Miller</surname><given-names>Evan</given-names></name>
+        <name><surname>Bache</surname><given-names>Stephan Milton</given-names></name>
+        <name><surname>Müller</surname><given-names>Kirill</given-names></name>
+        <name><surname>Ooms</surname><given-names>Jeroen</given-names></name>
+        <name><surname>Robinson</surname><given-names>David</given-names></name>
+        <name><surname>Seidel</surname><given-names>Dana Paige</given-names></name>
+        <name><surname>Spinu</surname><given-names>Vitalie</given-names></name>
+        <name><surname>Takahashi</surname><given-names>Kohske</given-names></name>
+        <name><surname>Vaughan</surname><given-names>Davis</given-names></name>
+        <name><surname>Wilke</surname><given-names>Claus</given-names></name>
+        <name><surname>Woo</surname><given-names>Kara</given-names></name>
+        <name><surname>Yutani</surname><given-names>Hiroaki</given-names></name>
+      </person-group>
+      <article-title>Welcome to the tidyverse</article-title>
+      <year iso-8601-date="2019">2019</year>
+      <volume>4</volume>
+      <pub-id pub-id-type="doi">10.21105/joss.01686</pub-id>
+      <fpage>1686</fpage>
       <lpage></lpage>
     </element-citation>
   </ref>
@@ -444,6 +483,9 @@ avg_years_between_eruptions</code>
 </sec>
 <sec id="sec-data-methods-nb-article">
   <title>2 Data &amp; Methods</title>
+  <p>Datenverarbeitung mit
+  (<xref alt="Wickham et al. 2019" rid="ref-tidyverse-nb-article" ref-type="bibr">Wickham
+  et al. 2019</xref>)</p>
 </sec>
 <sec id="conclusion-nb-article">
   <title>3 Conclusion</title>
@@ -471,6 +513,42 @@ avg_years_between_eruptions</code>
       <volume>8</volume>
       <pub-id pub-id-type="doi">10.1186/s13617-019-0085-5</pub-id>
       <fpage></fpage>
+      <lpage></lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-tidyverse-nb-article">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Wickham</surname><given-names>Hadley</given-names></name>
+        <name><surname>Averick</surname><given-names>Mara</given-names></name>
+        <name><surname>Bryan</surname><given-names>Jennifer</given-names></name>
+        <name><surname>Chang</surname><given-names>Winston</given-names></name>
+        <name><surname>McGowan</surname><given-names>Lucy D’Agostino</given-names></name>
+        <name><surname>François</surname><given-names>Romain</given-names></name>
+        <name><surname>Grolemund</surname><given-names>Garrett</given-names></name>
+        <name><surname>Hayes</surname><given-names>Alex</given-names></name>
+        <name><surname>Henry</surname><given-names>Lionel</given-names></name>
+        <name><surname>Hester</surname><given-names>Jim</given-names></name>
+        <name><surname>Kuhn</surname><given-names>Max</given-names></name>
+        <name><surname>Pedersen</surname><given-names>Thomas Lin</given-names></name>
+        <name><surname>Miller</surname><given-names>Evan</given-names></name>
+        <name><surname>Bache</surname><given-names>Stephan Milton</given-names></name>
+        <name><surname>Müller</surname><given-names>Kirill</given-names></name>
+        <name><surname>Ooms</surname><given-names>Jeroen</given-names></name>
+        <name><surname>Robinson</surname><given-names>David</given-names></name>
+        <name><surname>Seidel</surname><given-names>Dana Paige</given-names></name>
+        <name><surname>Spinu</surname><given-names>Vitalie</given-names></name>
+        <name><surname>Takahashi</surname><given-names>Kohske</given-names></name>
+        <name><surname>Vaughan</surname><given-names>Davis</given-names></name>
+        <name><surname>Wilke</surname><given-names>Claus</given-names></name>
+        <name><surname>Woo</surname><given-names>Kara</given-names></name>
+        <name><surname>Yutani</surname><given-names>Hiroaki</given-names></name>
+      </person-group>
+      <article-title>Welcome to the tidyverse</article-title>
+      <year iso-8601-date="2019">2019</year>
+      <volume>4</volume>
+      <pub-id pub-id-type="doi">10.21105/joss.01686</pub-id>
+      <fpage>1686</fpage>
       <lpage></lpage>
     </element-citation>
   </ref>
